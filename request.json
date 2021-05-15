@@ -15,12 +15,12 @@
          "context": [""]
         },
         {"tag": "chirurgie",
-         "patterns": [],
+         "patterns": [""],
          "responses": [],
          "context": [""]
         },
         {"tag": "neurologie",
-         "patterns": [],
+         "patterns": ["scanner cérébral","IRM"],
          "responses": [],
          "context": [""]
         },
