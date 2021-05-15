@@ -1,6 +1,6 @@
 {"intents": [
         {"tag": "médecine générale",
-         "patterns": [],
+         "patterns": ["rthiuhhvccc"],
          "responses": [],
          "context": [""]
         },
@@ -106,3 +106,5 @@
         }
    ]
 }-
+
+
